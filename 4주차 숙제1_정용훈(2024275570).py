@@ -26,4 +26,4 @@ print("앨범 발매 연도 입력 : ", album_release_year)
 if album_release_year < 1980 or album_release_year == 1991 or  album_release_year == 1993:
     print("3번 문제 정답 : this album came out already")
 print("========================================")
-
+#감사합니다.
