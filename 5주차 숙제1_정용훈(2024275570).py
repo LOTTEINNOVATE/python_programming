@@ -35,3 +35,5 @@ while(squares[i] == 'orange'):
     new_squares.append(squares[i])
     i = i + 1
     print(new_squares)
+print("=============================")
+#감사합니다.
